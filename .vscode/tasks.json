@@ -6,6 +6,11 @@
         {
             "type": "npm",
             "script": "deploy:confirm",
+            "group": "build"
+        },
+        {
+            "type": "npm",
+            "script": "deploy",
             "group": {
                 "kind": "build",
                 "isDefault": true
