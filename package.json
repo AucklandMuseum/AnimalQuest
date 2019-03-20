@@ -1,7 +1,7 @@
 {
   "name": "AnimanQuest",
   "version": "1.0.0",
-  "description": "A [Shorthand](https://github.com/shorthand) story, Anomal Quest.",
+  "description": "A [Shorthand](https://github.com/shorthand) story, Animal Quest.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
